@@ -1,3 +1,4 @@
 # Google 1998 Clone with HMTL & CSS
 ![](assets/ss.png)
-* Patika.dev link: https://app.patika.dev/yigitmustu
+* [Live Site URL](https://idrisyigit.github.io/Bootstrap-Task/)
+* [Patika.dev](https://app.patika.dev/yigitmustu)
